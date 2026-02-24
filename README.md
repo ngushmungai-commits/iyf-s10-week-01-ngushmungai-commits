@@ -245,19 +245,19 @@ npm start
 
 ## 📸 Screenshots
 
-> Add your screenshots here:
 
-![Home Page](path/to/home-screenshot.png)
 *Home page with hero section and skills preview*
+<img width="746" height="382" alt="Home screenshot" src="https://github.com/user-attachments/assets/fba3d68d-7b02-4fe1-9ffe-4b8b22aeab75" />
 
-![About Page](path/to/about-screenshot.png)
 *About page showcasing skills and experience*
+<img width="1042" height="516" alt="About screenshot" src="https://github.com/user-attachments/assets/28234632-d02f-4120-b5fb-1969ac85e272" />
 
-![Projects Page](path/to/projects-screenshot.png)
 *Projects showcase with grid layout*
+<img width="1188" height="544" alt="Projects screenshot" src="https://github.com/user-attachments/assets/bed1ea8e-a812-407d-a4b6-e11e41733309" />
 
-![Contact Page](path/to/contact-screenshot.png)
+
 *Contact form and information*
+<img width="1074" height="533" alt="Contacts screenshot" src="https://github.com/user-attachments/assets/65dc0b67-3134-46d7-986c-ac17089608e9" />
 
 ---
 
