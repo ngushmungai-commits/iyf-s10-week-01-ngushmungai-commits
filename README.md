@@ -263,7 +263,7 @@ npm start
 
 ## 🌐 Live Demo
 
-> **Deployed Site:** [View Live Demo](https://ngushmungai-commits.github.io)
+> **Deployed Site:** [View Live Demo](https://ngushmungai-commits.github.io/iyf-s10-week-01-ngushmungai-commits)
 
 ---
 
